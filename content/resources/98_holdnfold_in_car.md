@@ -10,6 +10,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3a38d26e-1443-bad2-7011-244cf41f317b
 resourcetype: Image
 title: Hold 'n Fold
 uid: f86bfa5a-fdd7-0dc5-0492-5f5394bc380c

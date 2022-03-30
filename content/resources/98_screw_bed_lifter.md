@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3a38d26e-1443-bad2-7011-244cf41f317b
 resourcetype: Image
 title: Screw Activated Bed Lifter/Loft
 uid: ef1e02c2-51db-4b30-48ac-195237670e4d

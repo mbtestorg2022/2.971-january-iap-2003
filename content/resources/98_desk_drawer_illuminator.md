@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3a38d26e-1443-bad2-7011-244cf41f317b
 resourcetype: Image
 title: Illuminator 2000
 uid: f72d3163-a7b8-cd87-f692-cb250797fa93

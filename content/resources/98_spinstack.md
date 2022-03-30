@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3a38d26e-1443-bad2-7011-244cf41f317b
 resourcetype: Image
 title: SpinStack
 uid: 4c2cee82-07c8-1066-6cf6-0780c3b6273c
